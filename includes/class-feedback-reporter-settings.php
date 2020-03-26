@@ -128,8 +128,8 @@ class Feedback_Reporter_Settings {
 			array(
 				'location'    => 'options', // Possible settings: options, menu, submenu.
 				'parent_slug' => 'options-general.php',
-				'page_title'  => __( 'Plugin Settings', 'feedback-reporter' ),
-				'menu_title'  => __( 'Plugin Settings', 'feedback-reporter' ),
+				'page_title'  => __( 'Feedback Reporter Settings', 'feedback-reporter' ),
+				'menu_title'  => __( 'Feedback Reporter', 'feedback-reporter' ),
 				'capability'  => 'manage_options',
 				'menu_slug'   => $this->parent->_token . '_settings',
 				'function'    => array( $this, 'settings_page' ),
@@ -401,7 +401,7 @@ class Feedback_Reporter_Settings {
 
 		// Build page HTML.
 		$html      = '<div class="wrap" id="' . $this->parent->_token . '_settings">' . "\n";
-			$html .= '<h2>' . __( 'Plugin Settings', 'feedback-reporter' ) . '</h2>' . "\n";
+			$html .= '<h2>' . __( 'Feedback Reporter Settings', 'feedback-reporter' ) . '</h2>' . "\n";
 
 			$tab = '';
 		//phpcs:disable

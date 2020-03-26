@@ -7,11 +7,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is where you craft a short, punchy description of your plugin
+Feedback Reporter will Display the list of feedback entries collected via Jetpack forms or other forms.
 
 == Description ==
 
-This is where you can give a much longer description of your plugin that you can use to explain just how it awesome it really is.
+Feedback Reporter will Display the list of feedback entries collected via Jetpack forms or other forms.
 
 == Installation ==
 
@@ -31,7 +31,7 @@ Installing "Feedback Reporter" can be done either by searching for "Feedback Rep
 
 = What is the plugin template for? =
 
-This plugin template is designed to help you get started with any new WordPress plugin.
+Feedback Reporter will Display the list of feedback entries collected via Jetpack forms or other forms.
 
 == Changelog ==
 

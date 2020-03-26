@@ -395,13 +395,13 @@ msgid "Feedback Reporter"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "http://www.hughlashbrooke.com/"
+msgid "http://www.iamgini.com/"
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "Hugh Lashbrooke"
+msgid "Gini"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "http://www.hughlashbrooke.com/"
+msgid "http://www.iamgini.com/"
 msgstr ""
